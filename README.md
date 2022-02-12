@@ -4,4 +4,4 @@
 При выполнении работы был использован макет фигмы.
 Для построения сеток была использована технология ”Grid Layout“
 
-Ссылка на [GhPage] https://julysel.github.io/russian-travel/
+Ссылка на проект: https://julysel.github.io/russian-travel/
